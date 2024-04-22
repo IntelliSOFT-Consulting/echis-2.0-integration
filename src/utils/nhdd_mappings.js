@@ -26,7 +26,7 @@ const codes = {
     },
     bcg: {
         system: NHDD_GENERIC_PATH,
-        code: "10512",
+        code: "10517",
         display: "BCG Vaccine",
     },
     opv: {
@@ -46,12 +46,12 @@ const codes = {
     },
     ipv: {
         system: NHDD_GENERIC_PATH,
-        code: "555",
-        display: "Polio vaccine (IPV) Multi dose vial Injection",
+        code: "3549",
+        display: "Inactivated Polio Vaccines",
     },
     rota: {
         system: NHDD_GENERIC_PATH,
-        code: "2760",
+        code: "2763",
         display: "Rotavirus Vaccines",
     },
     vitamin_a: {
@@ -61,7 +61,7 @@ const codes = {
     },
     measles: {
         system: NHDD_GENERIC_PATH,
-        code: "5456",
+        code: "24014",
         display: "Measles Vaccine",
     },
     //part of 25030 Developmental milestones
